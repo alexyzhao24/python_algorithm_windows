@@ -1,0 +1,15 @@
+# Python bytecode caches
+__pycache__/
+*.pyc
+
+# Pytest runtime tracks
+.pytest_cache/
+
+# Package build artifacts
+build/
+dist/
+*.egg-info/
+.editable/
+
+# IDE files
+.vscode/
